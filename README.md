@@ -16,19 +16,19 @@ install on termux
 
 python3 -m pip install requests bs4
 
- rm -rf KINGFB
+ rm -rf JCTFB
 
- git clone https://github.com/ChangzFB/KINGFB
+ git clone https://github.com/AlICEWORLDWIDE/JCTFB
 
- cd KINGFB
+ cd JCTFB
  
- python run.py
+ python PJT.py
 ```
 ## Cara Update
 ```php
-rm -rf KINGFB
+rm -rf JCTFB
 cd
-cd KINGFB
+cd JCTFB
 ls
 git pull
 python PJT.py
@@ -41,5 +41,5 @@ Download apk Termuxnya disini biar ngga error ✓
 
 ```
 ##  📫MY SOCIAL MEDIA
-[![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=black&labelColor=white)](https://github.com/ALICEWORLDWIDE) [![](https://img.shields.io/badge/Twitter-blue?logo=Twitter&logoColor=White&labelColor=white)](https://mobile.twitter.com/djmusicjr7)
+[![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=black&labelColor=white)](https://github.com/ALICEWORLDWIDE) [![](https://img.shields.io/badge/Twitter-blue?logo=Twitter&logoColor=White&labelColor=white)](https://mobile.twitter.com/)
 [![](https://img.shields.io/badge/Instagram-red?logo=Instagram&logoColor=red&labelColor=white)](https://www.instagram.com/jewelfunds123) [![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/+2349055012862?text=Good morning+JEWEL+FB)
